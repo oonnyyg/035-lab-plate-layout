@@ -1,0 +1,447 @@
+{
+  "max_plates": 3,
+  "plates_used": 2,
+  "control_wells": [
+    "A1",
+    "H12"
+  ],
+  "disabled_wells": [
+    "A2"
+  ],
+  "plates": [
+    {
+      "plate": 1,
+      "total_wells": 96,
+      "sample": 7,
+      "control": 2,
+      "disabled": 1,
+      "empty": 86
+    },
+    {
+      "plate": 2,
+      "total_wells": 96,
+      "sample": 90,
+      "control": 2,
+      "disabled": 1,
+      "empty": 3
+    }
+  ],
+  "samples": [
+    {
+      "sample_id": "S01",
+      "group": "alpha",
+      "replicates": 3,
+      "assigned_wells": [
+        {
+          "plate": 1,
+          "well": "A3"
+        },
+        {
+          "plate": 1,
+          "well": "A4"
+        },
+        {
+          "plate": 1,
+          "well": "A5"
+        }
+      ]
+    },
+    {
+      "sample_id": "S04",
+      "group": "alpha",
+      "replicates": 2,
+      "assigned_wells": [
+        {
+          "plate": 1,
+          "well": "A6"
+        },
+        {
+          "plate": 1,
+          "well": "A7"
+        }
+      ]
+    },
+    {
+      "sample_id": "S02",
+      "group": "beta",
+      "replicates": 90,
+      "assigned_wells": [
+        {
+          "plate": 2,
+          "well": "A3"
+        },
+        {
+          "plate": 2,
+          "well": "A4"
+        },
+        {
+          "plate": 2,
+          "well": "A5"
+        },
+        {
+          "plate": 2,
+          "well": "A6"
+        },
+        {
+          "plate": 2,
+          "well": "A7"
+        },
+        {
+          "plate": 2,
+          "well": "A8"
+        },
+        {
+          "plate": 2,
+          "well": "A9"
+        },
+        {
+          "plate": 2,
+          "well": "A10"
+        },
+        {
+          "plate": 2,
+          "well": "A11"
+        },
+        {
+          "plate": 2,
+          "well": "A12"
+        },
+        {
+          "plate": 2,
+          "well": "B1"
+        },
+        {
+          "plate": 2,
+          "well": "B2"
+        },
+        {
+          "plate": 2,
+          "well": "B3"
+        },
+        {
+          "plate": 2,
+          "well": "B4"
+        },
+        {
+          "plate": 2,
+          "well": "B5"
+        },
+        {
+          "plate": 2,
+          "well": "B6"
+        },
+        {
+          "plate": 2,
+          "well": "B7"
+        },
+        {
+          "plate": 2,
+          "well": "B8"
+        },
+        {
+          "plate": 2,
+          "well": "B9"
+        },
+        {
+          "plate": 2,
+          "well": "B10"
+        },
+        {
+          "plate": 2,
+          "well": "B11"
+        },
+        {
+          "plate": 2,
+          "well": "B12"
+        },
+        {
+          "plate": 2,
+          "well": "C1"
+        },
+        {
+          "plate": 2,
+          "well": "C2"
+        },
+        {
+          "plate": 2,
+          "well": "C3"
+        },
+        {
+          "plate": 2,
+          "well": "C4"
+        },
+        {
+          "plate": 2,
+          "well": "C5"
+        },
+        {
+          "plate": 2,
+          "well": "C6"
+        },
+        {
+          "plate": 2,
+          "well": "C7"
+        },
+        {
+          "plate": 2,
+          "well": "C8"
+        },
+        {
+          "plate": 2,
+          "well": "C9"
+        },
+        {
+          "plate": 2,
+          "well": "C10"
+        },
+        {
+          "plate": 2,
+          "well": "C11"
+        },
+        {
+          "plate": 2,
+          "well": "C12"
+        },
+        {
+          "plate": 2,
+          "well": "D1"
+        },
+        {
+          "plate": 2,
+          "well": "D2"
+        },
+        {
+          "plate": 2,
+          "well": "D3"
+        },
+        {
+          "plate": 2,
+          "well": "D4"
+        },
+        {
+          "plate": 2,
+          "well": "D5"
+        },
+        {
+          "plate": 2,
+          "well": "D6"
+        },
+        {
+          "plate": 2,
+          "well": "D7"
+        },
+        {
+          "plate": 2,
+          "well": "D8"
+        },
+        {
+          "plate": 2,
+          "well": "D9"
+        },
+        {
+          "plate": 2,
+          "well": "D10"
+        },
+        {
+          "plate": 2,
+          "well": "D11"
+        },
+        {
+          "plate": 2,
+          "well": "D12"
+        },
+        {
+          "plate": 2,
+          "well": "E1"
+        },
+        {
+          "plate": 2,
+          "well": "E2"
+        },
+        {
+          "plate": 2,
+          "well": "E3"
+        },
+        {
+          "plate": 2,
+          "well": "E4"
+        },
+        {
+          "plate": 2,
+          "well": "E5"
+        },
+        {
+          "plate": 2,
+          "well": "E6"
+        },
+        {
+          "plate": 2,
+          "well": "E7"
+        },
+        {
+          "plate": 2,
+          "well": "E8"
+        },
+        {
+          "plate": 2,
+          "well": "E9"
+        },
+        {
+          "plate": 2,
+          "well": "E10"
+        },
+        {
+          "plate": 2,
+          "well": "E11"
+        },
+        {
+          "plate": 2,
+          "well": "E12"
+        },
+        {
+          "plate": 2,
+          "well": "F1"
+        },
+        {
+          "plate": 2,
+          "well": "F2"
+        },
+        {
+          "plate": 2,
+          "well": "F3"
+        },
+        {
+          "plate": 2,
+          "well": "F4"
+        },
+        {
+          "plate": 2,
+          "well": "F5"
+        },
+        {
+          "plate": 2,
+          "well": "F6"
+        },
+        {
+          "plate": 2,
+          "well": "F7"
+        },
+        {
+          "plate": 2,
+          "well": "F8"
+        },
+        {
+          "plate": 2,
+          "well": "F9"
+        },
+        {
+          "plate": 2,
+          "well": "F10"
+        },
+        {
+          "plate": 2,
+          "well": "F11"
+        },
+        {
+          "plate": 2,
+          "well": "F12"
+        },
+        {
+          "plate": 2,
+          "well": "G1"
+        },
+        {
+          "plate": 2,
+          "well": "G2"
+        },
+        {
+          "plate": 2,
+          "well": "G3"
+        },
+        {
+          "plate": 2,
+          "well": "G4"
+        },
+        {
+          "plate": 2,
+          "well": "G5"
+        },
+        {
+          "plate": 2,
+          "well": "G6"
+        },
+        {
+          "plate": 2,
+          "well": "G7"
+        },
+        {
+          "plate": 2,
+          "well": "G8"
+        },
+        {
+          "plate": 2,
+          "well": "G9"
+        },
+        {
+          "plate": 2,
+          "well": "G10"
+        },
+        {
+          "plate": 2,
+          "well": "G11"
+        },
+        {
+          "plate": 2,
+          "well": "G12"
+        },
+        {
+          "plate": 2,
+          "well": "H1"
+        },
+        {
+          "plate": 2,
+          "well": "H2"
+        },
+        {
+          "plate": 2,
+          "well": "H3"
+        },
+        {
+          "plate": 2,
+          "well": "H4"
+        },
+        {
+          "plate": 2,
+          "well": "H5"
+        },
+        {
+          "plate": 2,
+          "well": "H6"
+        },
+        {
+          "plate": 2,
+          "well": "H7"
+        },
+        {
+          "plate": 2,
+          "well": "H8"
+        }
+      ]
+    },
+    {
+      "sample_id": "S03",
+      "group": "beta",
+      "replicates": 2,
+      "assigned_wells": [
+        {
+          "plate": 1,
+          "well": "A8"
+        },
+        {
+          "plate": 1,
+          "well": "A9"
+        }
+      ]
+    }
+  ]
+}

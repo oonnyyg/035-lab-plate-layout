@@ -1,0 +1,5 @@
+﻿{
+  "max_plates": 3,
+  "control_wells": ["A1", "H12"],
+  "disabled_wells": ["A2"]
+}
