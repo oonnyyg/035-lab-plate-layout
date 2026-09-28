@@ -1,0 +1,4 @@
+sample_id,group,replicates
+S2,treated,90
+S1,control_group,5
+S3,treated,5
